@@ -23,3 +23,4 @@ C:\Users\amand\OneDrive\Área de Trabalho\Proj_Integrador01\obj\Debug\net8.0\ref
 C:\Users\amand\OneDrive\Área de Trabalho\Proj_Integrador01\obj\Debug\net8.0\Proj_Integrador01.pdb
 C:\Users\amand\OneDrive\Área de Trabalho\Proj_Integrador01\obj\Debug\net8.0\Proj_Integrador01.genruntimeconfig.cache
 C:\Users\amand\OneDrive\Área de Trabalho\Proj_Integrador01\obj\Debug\net8.0\ref\Proj_Integrador01.dll
+C:\Users\amand\OneDrive\Área de Trabalho\Proj_Integrador01\obj\Debug\net8.0\Proj_Integrador01.sourcelink.json
